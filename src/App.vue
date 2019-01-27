@@ -61,7 +61,7 @@
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
-                    <v-btn flat color="orange" href="https://www.google.com">Github</v-btn>
+                    <v-btn flat color="orange" href="https://github.com/DecentralizeJustice/MultisigMobile">Github</v-btn>
                   </v-card-actions>
                 </v-card>
                </v-flex>
@@ -77,7 +77,7 @@
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
-                    <v-btn flat color="orange" href="https://www.google.com">Github</v-btn>
+                    <v-btn flat color="orange" href="https://github.com/DecentralizeJustice/MultisigCryptoDesktop">Github</v-btn>
                   </v-card-actions>
                 </v-card>
                </v-flex>
@@ -93,7 +93,7 @@
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
-                    <v-btn flat color="orange" href="https://www.google.com">Ask A Quesion</v-btn>
+                    <v-btn flat color="orange" href="https://www.reddit.com/r/DecentralizeJustice">Ask A Quesion</v-btn>
                   </v-card-actions>
                 </v-card>
                </v-flex>
