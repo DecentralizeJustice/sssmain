@@ -45,7 +45,7 @@
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
-                    <v-btn flat color="orange" href="https://www.google.com">Study</v-btn>
+                    <v-btn flat color="orange" href="https://www.multisigcrypto.com/spec">Study</v-btn>
                   </v-card-actions>
                 </v-card>
                </v-flex>
