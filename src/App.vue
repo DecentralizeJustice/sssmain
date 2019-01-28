@@ -13,7 +13,7 @@
            class="white--text"
          >
            <img src="./assets/Multisig-Crypto.png" alt="" height="400">
-           <h2 class="white--text mb-2 display-1 text-xs-center">Secure Crypto for the Masses</h2>
+           <h2 class="white--text mb-2 display-1 text-xs-center">Crypto for the People</h2>
          </v-layout>
        </v-parallax>
      </section>
