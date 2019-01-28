@@ -93,7 +93,7 @@
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
-                    <v-btn flat color="orange" href="https://www.reddit.com/r/DecentralizeJustice">Ask A Quesion</v-btn>
+                    <v-btn flat color="orange" href="https://www.reddit.com/r/DecentralizeJustice">Ask A Question</v-btn>
                   </v-card-actions>
                 </v-card>
                </v-flex>
