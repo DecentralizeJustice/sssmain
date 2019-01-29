@@ -1,2 +1,3 @@
 # Invisbily proxy to design spec
 /spec/*  https://xenodochial-turing-ca09ca.netlify.com/:splat     200!
+/busi/*  https://fervent-lewin-903bc9.netlify.com/:splat     200!
