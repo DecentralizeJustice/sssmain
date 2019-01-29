@@ -84,16 +84,16 @@
                <v-flex xs12 md6>
                  <v-card>
                     <v-img
-                      src="https://userstyles.org/style_screenshots/129171_after.png"
+                      src="https://images.pexels.com/photos/212286/pexels-photo-212286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
                       aspect-ratio="2"
                     ></v-img>
                   <v-card-title primary-title class="justify-center">
                     <div>
-                      <h3 class="headline mb-0">Reddit</h3>
+                      <h3 class="headline mb-0">Buisness Plan</h3>
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
-                    <v-btn flat color="orange" href="https://www.reddit.com/r/DecentralizeJustice">Ask A Question</v-btn>
+                    <v-btn flat color="orange" href="https://www.multisigcrypto.com/busi/">Ask A Question</v-btn>
                   </v-card-actions>
                 </v-card>
                </v-flex>
