@@ -89,7 +89,7 @@
                     ></v-img>
                   <v-card-title primary-title class="justify-center">
                     <div>
-                      <h3 class="headline mb-0">Buisness Plan</h3>
+                      <h3 class="headline mb-0">Business Plan</h3>
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
