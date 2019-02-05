@@ -52,32 +52,16 @@
                <v-flex xs12 md6>
                  <v-card>
                     <v-img
-                      src="https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                      src="https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
                       aspect-ratio="2"
                     ></v-img>
                   <v-card-title primary-title class="justify-center">
                     <div>
-                      <h3 class="headline mb-0">Mobile App</h3>
+                      <h3 class="headline mb-0">Blog</h3>
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
-                    <v-btn flat color="orange" href="https://github.com/DecentralizeJustice/MultisigMobile">Github</v-btn>
-                  </v-card-actions>
-                </v-card>
-               </v-flex>
-               <v-flex xs12 md6>
-                 <v-card>
-                    <v-img
-                      src="https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                      aspect-ratio="2"
-                    ></v-img>
-                  <v-card-title primary-title class="justify-center">
-                    <div>
-                      <h3 class="headline mb-0">Desktop App</h3>
-                    </div>
-                  </v-card-title>
-                  <v-card-actions class="justify-center">
-                    <v-btn flat color="orange" href="https://github.com/DecentralizeJustice/MultisigCryptoDesktop">Github</v-btn>
+                    <v-btn flat color="orange" href="https://www.multisigcrypto.com/blog">Github</v-btn>
                   </v-card-actions>
                 </v-card>
                </v-flex>
@@ -97,6 +81,22 @@
                   </v-card-actions>
                 </v-card>
                </v-flex>
+               <v-flex xs12 md6>
+                 <v-card>
+                    <v-img
+                      src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                      aspect-ratio="2"
+                    ></v-img>
+                  <v-card-title primary-title class="justify-center">
+                    <div>
+                      <h3 class="headline mb-0">Desktop App</h3>
+                    </div>
+                  </v-card-title>
+                  <v-card-actions class="justify-center">
+                    <v-btn flat color="orange" href="https://github.com/DecentralizeJustice/">Github</v-btn>
+                  </v-card-actions>
+                </v-card>
+               </v-flex>
              </v-layout>
            </v-container>
          </v-flex>
@@ -108,7 +108,6 @@
 </template>
 
 <script>
-
 export default {
   name: 'App',
   components: {
