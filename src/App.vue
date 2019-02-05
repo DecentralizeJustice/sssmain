@@ -61,7 +61,7 @@
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
-                    <v-btn flat color="orange" href="https://www.multisigcrypto.com/blog">Github</v-btn>
+                    <v-btn flat color="orange" href="https://www.multisigcrypto.com/blog">Read</v-btn>
                   </v-card-actions>
                 </v-card>
                </v-flex>
@@ -89,7 +89,7 @@
                     ></v-img>
                   <v-card-title primary-title class="justify-center">
                     <div>
-                      <h3 class="headline mb-0">Desktop App</h3>
+                      <h3 class="headline mb-0">Applications</h3>
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
