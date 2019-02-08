@@ -1,4 +1,4 @@
 # Invisbily proxy to design spec
 /spec/*  https://techspec423424.netlify.com/:splat     200!
 /busi/*  https://businessstuff12312389yui.netlify.com/:splat     200!
-/blog/*  https://blog86756.netlify.com/index.html/:splat    200!
+/blog/*  https://blog86756.netlify.com/index.html    200!
