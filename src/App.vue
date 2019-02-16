@@ -12,7 +12,10 @@
            justify-center
            class="white--text"
          >
-           <img src="./assets/Multisig-Crypto.png" alt="" height="400">
+          <v-flex xs12
+          >
+           <img src="@/assets/Multisig-Crypto.png" alt="" style="width: 100%;max-width:400px;">
+         </v-flex>
            <h2 class="white--text mb-2 display-1 text-xs-center">Crypto for the People</h2>
          </v-layout>
        </v-parallax>
