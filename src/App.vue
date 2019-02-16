@@ -16,7 +16,7 @@
           <v-flex xs1 md1>
            <v-img :src="require('./assets/Multisig-Crypto.png')"
            alt="" style="max-width: 100%; width:100%;"/>
-           <h2 class="white--text mb-2 display-1 text-xs-center">Crypto for the People</h2>
+           <h2 class="white--text  display-2 text-xs-center">Crypto for the People</h2>
          </v-flex>
          </v-layout>
        </v-parallax>
