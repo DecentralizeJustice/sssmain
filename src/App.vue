@@ -3,20 +3,21 @@
    <!-- <v-toolbar class="white">
      <v-toolbar-title v-text="title"></v-toolbar-title>
    </v-toolbar> -->
+   <v-container  text-xs-center fluid pa-0>
    <v-content>
      <section>
-       <v-parallax src="https://images.pexels.com/photos/1055336/pexels-photo-1055336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" height="600">
+       <v-parallax src="https://images.pexels.com/photos/1055336/pexels-photo-1055336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" height="500">
          <v-layout
            column
            align-center
            justify-center
            class="white--text"
          >
-          <v-flex xs12
-          >
-           <img src="@/assets/Multisig-Crypto.png" alt="" style="width: 100%;max-width:400px;">
-         </v-flex>
+          <v-flex xs1 md1>
+           <v-img :src="require('./assets/Multisig-Crypto.png')"
+           alt="" style="max-width: 100%; width:100%;"/>
            <h2 class="white--text mb-2 display-1 text-xs-center">Crypto for the People</h2>
+         </v-flex>
          </v-layout>
        </v-parallax>
      </section>
@@ -107,6 +108,7 @@
      </section>
 
    </v-content>
+   </v-container>
  </v-app>
 </template>
 
