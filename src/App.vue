@@ -45,11 +45,11 @@
                     ></v-img>
                   <v-card-title primary-title class="justify-center">
                     <div>
-                      <h3 class="headline mb-0">Design Specification</h3>
+                      <h3 class="headline mb-0">Documentation</h3>
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
-                    <v-btn flat color="orange" href="https://www.multisigcrypto.com/spec">Study</v-btn>
+                    <v-btn flat color="orange" href="https://www.multisigcrypto.com/docs">Study</v-btn>
                   </v-card-actions>
                 </v-card>
                </v-flex>
