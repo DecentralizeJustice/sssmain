@@ -101,6 +101,22 @@
                   </v-card-actions>
                 </v-card>
                </v-flex>
+               <v-flex xs12 md6>
+                 <v-card>
+                    <v-img
+                      src="https://images.pexels.com/photos/1537008/pexels-photo-1537008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                      aspect-ratio="2"
+                    ></v-img>
+                  <v-card-title primary-title class="justify-center">
+                    <div>
+                      <h3 class="headline mb-0">Technical Specification</h3>
+                    </div>
+                  </v-card-title>
+                  <v-card-actions class="justify-center">
+                    <v-btn flat color="orange" href="https://www.multisigcrypto.com/spec/">Study</v-btn>
+                  </v-card-actions>
+                </v-card>
+               </v-flex>
              </v-layout>
            </v-container>
          </v-flex>
