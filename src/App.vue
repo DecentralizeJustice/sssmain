@@ -34,7 +34,7 @@
              <h2 class="headline">This project is under development. Here are our main categories of work: </h2>
            </div>
          </v-flex>
-         <v-flex xs12>
+         <v-flex xs12 >
            <v-container grid-list-xl>
              <v-layout row wrap align-center>
                <v-flex xs12 md6>
