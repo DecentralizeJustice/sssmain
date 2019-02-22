@@ -35,9 +35,9 @@
            </div>
          </v-flex>
          <v-flex xs12 >
-           <v-container grid-list-xl>
+           <v-container grid-list-xl fluid>
              <v-layout row wrap align-center>
-               <v-flex xs12 md6>
+               <v-flex xs12 md4>
                  <v-card >
                     <v-img
                       src="https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
@@ -53,7 +53,7 @@
                   </v-card-actions>
                 </v-card>
                </v-flex>
-               <v-flex xs12 md6>
+               <v-flex xs12 md4>
                  <v-card>
                     <v-img
                       src="https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
@@ -69,7 +69,7 @@
                   </v-card-actions>
                 </v-card>
                </v-flex>
-               <v-flex xs12 md6>
+               <v-flex xs12 md4>
                  <v-card>
                     <v-img
                       src="https://images.pexels.com/photos/212286/pexels-photo-212286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
@@ -85,7 +85,7 @@
                   </v-card-actions>
                 </v-card>
                </v-flex>
-               <v-flex xs12 md6>
+               <v-flex xs12 md4>
                  <v-card>
                     <v-img
                       src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
@@ -101,7 +101,7 @@
                   </v-card-actions>
                 </v-card>
                </v-flex>
-               <v-flex xs12 md6>
+               <v-flex xs12 md4>
                  <v-card>
                     <v-img
                       src="https://images.pexels.com/photos/1537008/pexels-photo-1537008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
@@ -117,7 +117,7 @@
                   </v-card-actions>
                 </v-card>
                </v-flex>
-               <v-flex xs12 md6>
+               <v-flex xs12 md4 >
                  <v-card>
                     <v-img
                       src="https://images.pexels.com/photos/707195/pexels-photo-707195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
