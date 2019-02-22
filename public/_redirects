@@ -1,5 +1,5 @@
 # Invisbily proxy to subsites
-/docs/*  https://techspec423424.netlify.com/:splat     200!
+/docs/*  https://gen-docs-6d7be5.netlify.com/:splat     200!
 /busi/*  https://businessstuff12312389yui.netlify.com/:splat     200!
 /blog/*  https://blog86756.netlify.com/:splat   200!
 /spec/*  https://tech-spec-3057d6.netlify.com/:splat   200!
