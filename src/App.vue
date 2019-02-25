@@ -81,7 +81,7 @@
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
-                    <v-btn flat color="orange" href="https://www.multisigcrypto.com/busi/">Explore</v-btn>
+                    <v-btn flat color="orange" href="https://www.decentralizejustice.com/busi">Explore</v-btn>
                   </v-card-actions>
                 </v-card>
                </v-flex>
