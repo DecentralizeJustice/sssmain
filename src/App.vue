@@ -65,7 +65,7 @@
                     </div>
                   </v-card-title>
                   <v-card-actions class="justify-center">
-                    <v-btn flat color="orange" href="https://www.multisigcrypto.com/blog">Read</v-btn>
+                    <v-btn flat color="orange" href="https://www.decentralizejustice.com/blog">Read</v-btn>
                   </v-card-actions>
                 </v-card>
                </v-flex>
