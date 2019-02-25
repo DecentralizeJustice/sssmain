@@ -1,5 +1,4 @@
 # proxy to subsites
 /docs/*  https://gen-docs-3057d6.netlify.com/:splat     200!
-/busi/*  https://businesss-website-4444333.netlify.com/:splat     200!
 /spec/*  https://design-spec-b2457e.netlify.com/:splat   200!
 /instruct/*  https://multisig-instructions-76c7b1.netlify.com/:splat   200!
