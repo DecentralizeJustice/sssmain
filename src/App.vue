@@ -16,7 +16,7 @@
           <v-flex xs1 md1>
            <v-img :src="require('./assets/Multisig-Crypto.png')"
            alt="" style="max-width: 100%; width:100%;"/>
-           <h2 class="white--text  display-2 text-xs-center">Crypto for the People</h2>
+           <h2 class="white--text  display-2 text-xs-center">Distributed & Secure Crypto Wallet</h2>
          </v-flex>
          </v-layout>
        </v-parallax>
@@ -31,7 +31,7 @@
        >
          <v-flex xs12 sm4 class="my-3">
            <div class="text-xs-center">
-             <h2 class="headline">This project is under development. Here are our main categories of work: </h2>
+             <h2 class="headline">Crpto protocols are distributd, your wallet should be also. Here are the parts of our project that work to make that happen: </h2>
            </div>
          </v-flex>
          <v-flex xs12 >
