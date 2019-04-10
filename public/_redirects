@@ -1,4 +1,4 @@
 # proxy to subsites
-/docs/*  https://multi-sig-gen-docs-3057d6.netlify.com/:splat     200!
+/docs/*  https://decentralkeystoragedocs.netlify.com/:splat     200!
 /spec/*  https://multi-sig-crypto-design-spec-b2457e.netlify.com/:splat   200!
-/instruct/*  https://multisig-instructions-76c7b1.netlify.com/:splat   200!
+
