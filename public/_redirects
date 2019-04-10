@@ -1,4 +1,4 @@
 # proxy to subsites
 /docs/*  https://decentralkeystoragedocs.netlify.com/:splat     200!
-/spec/*  https://multi-sig-crypto-design-spec-b2457e.netlify.com/:splat   200!
+/plan/*  https://decentralkeystorageplan.netlify.com/:splat   200!
 
