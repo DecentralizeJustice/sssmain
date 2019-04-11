@@ -3,8 +3,13 @@
     <v-layout row wrap ma-0 pa-0 >
       <v-flex xs12 class="back-image">
         <div class="center">
-        <div class="display-3">Secure Your Daily Funds</div>
-        <div class="display-1">A utility app that helps you manage your daily use keys so that you don't loose them. </div>
+        <div class="main">Secure Your Crypto</div>
+        <div class="display-1 mt-3">A Utility App That Helps You Manage Your Daily Used Crypto
+          So That You Don't Loose Them. </div>
+        <div class="mt-3">
+          <v-btn large color="#025E73">App</v-btn>
+          <v-btn large color="black">Docs</v-btn>
+        </div>
       </div>
       </v-flex>
       </v-layout>
@@ -24,8 +29,8 @@ export default {
   background:
     /* top, transparent red, faked with gradient */
     linear-gradient(
-      rgba(13, 152, 186, 0.7),
-      rgba(13, 152, 186, 0.7)
+      rgba(13, 152, 186, 0.8),
+      rgba(13, 152, 186, 0.8)
     ),
     no-repeat center center fixed
     url(https://res.cloudinary.com/dylevfpbl/image/upload/v1555014467/decentralkeystorage/phone.jpg);
@@ -42,6 +47,10 @@ position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
+}
+.main{
+  font-family: 'Helvetica', sans-serif;
+  font-size: 14vh;
 }
 
 </style>
