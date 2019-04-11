@@ -1,7 +1,10 @@
 <template>
   <v-container  text-xs-center fluid ma-0 pa-0 >
     <v-layout row wrap ma-0 pa-0 >
-      <div class="back-image"></div>
+      <v-flex xs12 class="back-image">
+        <div class="title font-weight-light">Secure Your Daily Funds</div>
+        <div class="title font-weight-light">A Utility App That </div>
+      </v-flex>
       </v-layout>
   </v-container>
 </template>
