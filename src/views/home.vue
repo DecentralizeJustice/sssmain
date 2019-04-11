@@ -7,7 +7,7 @@
         <div class="display-1 mt-3">A Utility App That Helps You Manage Your Daily Crypto
           So That You Don't Loose Them. </div>
         <div class="mt-3">
-          <v-btn large color="#025E73">App</v-btn>
+          <v-btn large href='https://decentralkeystorage.com/docs' color="#025E73">App</v-btn>
           <v-btn large color="black">Docs</v-btn>
         </div>
       </div>
