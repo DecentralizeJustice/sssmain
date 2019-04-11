@@ -4,7 +4,7 @@
       <v-flex xs12 class="back-image">
         <div class="center">
         <div class="main">Secure Your Crypto</div>
-        <div class="display-1 mt-3">A Utility App That Helps You Manage Your Daily Used Crypto
+        <div class="display-1 mt-3">A Utility App That Helps You Manage Your Daily Crypto
           So That You Don't Loose Them. </div>
         <div class="mt-3">
           <v-btn large color="#025E73">App</v-btn>
