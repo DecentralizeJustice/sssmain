@@ -2,22 +2,22 @@
   <div>
       <v-flex xs12 class="grad hidden-sm-and-down" style="height:80vh;width:100vw;">
 
-          <img src='https://res.cloudinary.com/dylevfpbl/image/upload/v1556067349/plastic/undraw_mind_map_cwng.svg'
+          <img src='https://res.cloudinary.com/dylevfpbl/image/upload/v1556170505/sss/undraw_Memory_storage_reh0.svg'
           style="height:50%;width:auto;margin-top:5%;">
-          <div class="text mt-3">Plastic creates storage that is easy to create and durable. These features make it perfect for
-          a distributed system to store your crypto. </div>
+          <div class="text mt-3">Shamir Secret Sharing allows you to backup your key in whatver way works best for you.
+          Whether you are holding small amounts for daily use or large amoutns for long time storage.</div>
         <div class="mt-3">
-          <v-btn large color="black">Buy</v-btn>
+          <v-btn large color="black">Start</v-btn>
         </div>
 
       </v-flex>
       <v-flex xs12 class="hidden-md-and-up grad">
-          <img src='https://res.cloudinary.com/dylevfpbl/image/upload/v1556067349/plastic/undraw_mind_map_cwng.svg'
+          <img src='https://res.cloudinary.com/dylevfpbl/image/upload/v1556170505/sss/undraw_Memory_storage_reh0.svg'
           style="width:75vw;height:auto;margin-top:5%;">
-          <div class="textm">Plastic creates storage that is easy to create and durable. These features make it perfect for
-          a distributed system to store your crypto.  </div>
+          <div class="textm">Shamir Secret Sharing allows you to backup your key in whatver way works best for you.
+          Whether you are holding small amounts for daily use or large amoutns for long time storage.</div>
           <div class="mt-3 pb-3" >
-            <v-btn large color="black" st>Buy</v-btn>
+            <v-btn large color="black" st>Start</v-btn>
           </div>
 
     </v-flex>

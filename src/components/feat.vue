@@ -19,20 +19,19 @@ export default {
         {
           img: 'https://res.cloudinary.com/dylevfpbl/image/upload/v1555918573/keysbyanymeans/undraw_marketing_v0iu_1.svg',
           title: 'Custom',
-          text: `This kit allows you to create whatever system you want to use to back up your crypto. `,
+          text: `You can use this app to store your crypto anyway that works best for you. `,
           link: 'https://www.google.com'
         },
         {
           img: 'https://res.cloudinary.com/dylevfpbl/image/upload/v1556071118/plastic/undraw_voice_interface_eckp.svg',
           title: 'Easy',
-          text: `This method of storage is much easier than other metal forms of storage.`,
+          text: `This method is powerful yet easy to use to store your crypto.`,
           link: 'https://www.google.com'
         },
         {
           img: 'https://res.cloudinary.com/dylevfpbl/image/upload/v1556071038/plastic/undraw_vault_9cmw.svg',
-          title: 'Durable',
-          text: `This kit allows you to build a system of crypto storage that does not fail silentlty. It can withstand water and
-          other forms of decay.`,
+          title: 'Redundant',
+          text: `This system allows you to build a redudant system that is safe from all forms of disasters.`,
           link: 'https://www.google.com'
         }
       ]
