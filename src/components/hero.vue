@@ -2,24 +2,24 @@
   <div>
       <v-flex xs12 class="back-image hidden-sm-and-down" style="height:80vh;">
         <div class="center">
-        <div class="main">Plastic Crypto Storage</div>
-        <div class="display-1 mt-3">A felxible and easy tool to backup your crypto.</div>
+        <div class="main">SSS Backup</div>
+        <div class="display-1 mt-3">A felxible and easy method to backup your crypto.</div>
         <div class="mt-3">
-          <v-btn large color="black">Buy</v-btn>
+          <v-btn large color="black">Start</v-btn>
         </div>
       </div>
       </v-flex>
       <v-flex xs12 class="hidden-md-and-up grad">
         <v-flex xs12 class="" style=''>
-          <img src="https://res.cloudinary.com/dylevfpbl/image/upload/v1555992220/plastic/account-calculate-calculating-220301.jpg"
+          <img src="https://res.cloudinary.com/dylevfpbl/image/upload/v1556168910/sss/access-background-black-761149.jpg"
           style="height:auto;width:100vw;">
         </v-flex>
         <v-flex sx12 style="padding-bottom:4vh;">
           <div class="">
-            <div class="titlem">Plastic Crypto Storage</div>
-            <div class="textm mt-3">A felxible and easy tool to backup your crypto.</div>
+            <div class="titlem">SSS Backup</div>
+            <div class="textm mt-3">A felxible and easy method to backup your crypto.</div>
             <div class="mt-3">
-              <v-btn large color="black">Buy</v-btn>
+              <v-btn large color="black">Try</v-btn>
             </div>
           </div>
       </v-flex>
@@ -42,7 +42,7 @@ export default {
 .back-image {
   background:
     no-repeat center center fixed
-    url(https://res.cloudinary.com/dylevfpbl/image/upload/v1555988510/plastic/desk-1220052_1920.jpg);
+    url(https://res.cloudinary.com/dylevfpbl/image/upload/v1556168910/sss/access-background-black-761149.jpg);
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
